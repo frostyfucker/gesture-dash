@@ -1,0 +1,6 @@
+{
+  "name": "OrchestrAI-t Holographic Dashboard",
+  "description": "An interactive, sci-fi mixed-reality orchestration platform with programmatic phonetic conducting, gesture-based controls, real-time simulated emotional telemetry, and a fully spatial 3D Council Arc.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
